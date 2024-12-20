@@ -11,7 +11,7 @@ Course Pro: 20
 
 ## Schedule
 
-Mon-Thur: *three*-hour homework and *two*-hour pre-lectur reaading assignment
+Mon-Thur: *three*-hour homework and *two*-hour pre-lectur reaading assignment  
 Fri: *one*-hour lecture and *two*-hour coding challenge
 
 ## Topics
@@ -21,14 +21,14 @@ Jan 14-17: Sampling methods
 Jan 20-24: Monte Carlo methods  
 Jan 28-31: Markov chain methods  
 Feb 03-07: Numeric precision  
-Feb 10-14: Direct methods
-Feb 17-21: READING WEEK
-Feb 24-28: Functional bases
-Mar 03-07: Iterative methods
-Mar 10-14: Variance reduction (and ML)
-Mar 17-21: Newton-like methods
-Mar 24-28: Bayesian deep learning
-Apr -1-04: Generative modeling
+Feb 10-14: Direct methods  
+Feb 17-21: READING WEEK  
+Feb 24-28: Functional bases  
+Mar 03-07: Iterative methods  
+Mar 10-14: Variance reduction (and ML)  
+Mar 17-21: Newton-like methods  
+Mar 24-28: Bayesian deep learning  
+Apr -1-04: Generative modeling  
 
 
 ## Projects
