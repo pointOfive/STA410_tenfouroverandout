@@ -5,9 +5,9 @@ Friday 12-3 PM AH 400
 
 ## Grading
 
-MarkUs HWs: 40=4*10 best
-MarkUs CCs: 40=4*10 best
-Course Pro: 20
+MarkUs HWs: 40=4*10 best  
+MarkUs CCs: 40=4*10 best  
+Course Pro: 20  
 
 ## Schedule
 
