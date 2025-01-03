@@ -16,7 +16,7 @@ Fri: *one*-hour lecture and *two*-hour coding challenge
 
 ## Topics
 
-Jan 06-10: Pseudorandom numbers [AKA various excuses to review and practice coding and think about computers]  
+Jan 06-10: Pseudorandom numbers [AKA various excuses to review and practice coding and consider computers]  
 Jan 14-17: Sampling methods  
 Jan 20-24: Monte Carlo methods  
 Jan 28-31: Markov chain methods  
