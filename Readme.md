@@ -7,7 +7,7 @@ Friday 12-3 PM AH 400
 
 MarkUs HWs: 40=4\*10 best  
 MarkUs CCs: 40=4\*10 best  
-Course Pro: 20  
+Course Project: 20  
 
 ## Schedule
 
