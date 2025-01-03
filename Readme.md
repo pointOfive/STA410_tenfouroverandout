@@ -11,12 +11,12 @@ Course Pro: 20
 
 ## Schedule
 
-Mon-Thur: *three*-hour homework and *two*-hour pre-lectur reaading assignment  
+Mon-Thur: *three*-hour homework and *two*-hour pre-lectur reading assignment  
 Fri: *one*-hour lecture and *two*-hour coding challenge
 
 ## Topics
 
-Jan 06-10: Pseudorandom numbers  
+Jan 06-10: Pseudorandom numbers [AKA various excuses to review and practice coding]  
 Jan 14-17: Sampling methods  
 Jan 20-24: Monte Carlo methods  
 Jan 28-31: Markov chain methods  
