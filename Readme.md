@@ -16,9 +16,9 @@ Fri: *one*-hour lecture and *two*-hour coding challenge
 
 ## Topics
 
-Jan 06-10: Pseudorandom numbers [AKA various excuses to review and practice coding and consider computers]  
-Jan 14-17: Sampling methods [AKA now you're REALLY gonna doing some computation: pre-material supports CC]  
-Jan 20-24: Variance reduction methods [AKA slamming the breaks after CC2 as this where it gets important]
+Jan 06-10: Pseudorandom numbers [AKA various excuses to gain coding comfort and consider computers]  
+Jan 14-17: Sampling methods [AKA now we're REALLY doing some computation: pre-material supports CC]  
+Jan 20-24: Variance reduction methods [AKA slamming the breaks after CC2 as this where it gets fun]
 Jan 28-31: Markov chain methods (which are just more efforts towards Monte Carlo integration...)  
 Feb 03-07: Numeric precision  
 Feb 10-14: Direct methods  
