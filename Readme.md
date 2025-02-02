@@ -19,8 +19,8 @@ Fri: *one*-hour lecture and *two*-hour coding challenge
 Jan 06-10: Pseudorandom numbers [AKA various excuses to gain coding comfort and consider computers]  
 Jan 13-17: Sampling methods [AKA now we're REALLY doing some computation: pre-material supports CC]  
 Jan 20-24: Variance reduction methods [AKA slamming breaks after CC2 where it SHOULD be getting fun]  
-Jan 27-31: Markov chain methods [AKA just more Monte Carlo integration but now in high dimensions?]  
-Feb 03-07: Numeric precision  [AKA more sequential stuff since computers are just Markov Chains...]  
+Jan 27-31: Markov chain methods [AKA just more Monte Carlo integration but now how in high dimensions]  
+Feb 03-07: Numeric precision  [AKA more sequential stuff since computers are just cumulative Markov Chains]  
 Feb 10-14: Direct methods  
 Feb 17-21: READING WEEK  
 Feb 24-28: Functional bases  
