@@ -26,8 +26,9 @@ Feb 17-21: READING WEEK
 Feb 24-28: Functional bases [AKA building on SVD (+PCA+PRC?) so hopefully this is making some sense]
 - Bonus Points: some more direct "Matrix" struff (which I think I'll be able to make available "soon")  
 - Bonus Points: some more bases stuff with FFT (which I think I'll be able to make available "soon")  
-Mar 03-07: Iterative methods  
-Mar 10-14: Variance reduction ML redux
+
+Mar 03-07: More iterative methods and variance reduction redux from the perspective of ML
+Mar 10-14: Gradient methods
 Mar 17-21: Newton-like methods  
 Mar 24-28: Bayesian deep learning  
 Apr -1-04: Generative modeling  
